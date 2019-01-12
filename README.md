@@ -676,7 +676,7 @@ See `vendor/assets/components/angular-i18n/angular-locale_*.js` for a list of av
 
 Configure the messageformat.js library, used by angular-translate.
 
-See `vendor/assets/components/messageformat/locale/*.js` for a list of available locales.
+See `{{vendor/assets/components/messageformat/locale/*.js}}` for a list of available locales.
 
     FULLCALENDAR_LOCALE
 
